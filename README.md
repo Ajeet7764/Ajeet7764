@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ajeet7764
 - 👀 I’m interested in Front-end developer
-- 🌱 I had completed B.tech in ITS ENGINEERING COLLEGE GREATER NOIDA. In year of 2022.
+- 🌱 I had completed from B.tech in ITS ENGINEERING COLLEGE GREATER NOIDA. In year of 2022.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me . for internet
 
