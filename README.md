@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ajeet7764
-- 👀 I’m interested in Front-end developer
-- 🌱 I had completed from B.tech in ITS ENGINEERING COLLEGE GREATER NOIDA. In year of 2022.
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me . for internet
+- 👀 I’m interested in Data Analyst
+- 🌱 I completed my B.tech from  ITS ENGINEERING COLLEGE GREATER NOIDA. In the year 2022.
+- 💞️ I’m looking to collaborate on GitHub
+- 📫 How to reach me. for internet
 
 <!---
 Ajeet7764/Ajeet7764 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
